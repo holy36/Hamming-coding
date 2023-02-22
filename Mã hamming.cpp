@@ -1,5 +1,5 @@
 // C program for the above approach
-
+// Bao cao cua nhom A+
 #include <math.h>
 #include <stdio.h>
 
